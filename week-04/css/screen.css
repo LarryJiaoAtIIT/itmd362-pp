@@ -1,15 +1,39 @@
 body{
 	background-color:#2980b9;
+	
 }
-
+p#signup{
+	color:#ecf0f1;
+	font-family:raleway,sans-serif;
+	font-size:1.5em;
+	line-height:2em;
+	margin:auto;
+	position:relative;
+	left:1em;
+}
 label{
 	font-family:raleway,sans-serif;
 	font-size:1em;
-	line-height:1em;
+	line-height:2em;
 	color:#ecf0f1;
 	margin:auto;
 	position:relative;
 	width: 80%;
 	height:80%
-	
+}
+input{
+	width:23.4375em;
+	height:1.5625em;
+	display:block;
+}
+input#submit{
+	position:relative;
+	top:1em;
+	width:10em;
+	height:2em;
+}
+
+textarea#biography{
+	width:23.4375em;
+	height:9.375em;
 }
