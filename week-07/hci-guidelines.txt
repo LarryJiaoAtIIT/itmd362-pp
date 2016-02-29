@@ -26,11 +26,16 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/StartingStopping.html#//apple_ref/doc/uid/TP40006556-CH52-SW1
 * How you implemented it in your sketch:
+Upon accessing the my.iit.edu webpage, there is only the login page to pay attention to. There is nothing that may extend the user's experience in a useless fashion.
 
 * HCI Guidline Two (URL):
+https://www.google.com/design/spec/what-is-material/environment.html#environment-3d-world
 * How you implemented it in your sketch:
+When you login to the iit login webpage, you will be able to access your student pages through the options. The background content will be what the user has.
 
 * HCI Guidline Three (URL):
+https://www.google.com/design/spec/patterns/navigation-drawer.html#
 * How you implemented it in your sketch:
+Each of the items on the webpage are neatly spaced between each other. 
