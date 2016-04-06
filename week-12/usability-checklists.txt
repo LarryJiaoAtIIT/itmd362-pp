@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.	http://www.userfocus.co.uk/resources/homepagechecklist.html
+2. http://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. There should not be any "Feature Lists"
+2. Depending on the Size, it may need a search bar.
+3. The Home Page needs all major options.
+4. The Home Page needs a mamorable URL.
+5. All corporate/important information is in a defined location
+6. A person with the first impressions on a page should not have issue with it.
+7. The site map is linked to every page.
+8. Hyperlinks should be distinctly labeled by their function.
+9. The same login form is used for all types of logging in.
+10. Forms are validated before they are submitted.
