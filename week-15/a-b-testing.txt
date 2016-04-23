@@ -9,7 +9,23 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 ## Deliverables
 
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
-
+	-	ocremix-1.png
+	-	ocremix-2.png
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
-
+	-	B-Testing.png/psd
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+	
+	A lot of the design has mostly been done as early as when this webpage has been online, and has
+	mostly been revised to fit the needs for active people who frequent on the webpage. (Referring to
+	Ohgodwhy.png) Much of the styling is being done while the HTML is loaded, but not in a separate
+	CSS file; it is all checked through under the HTML source.
+	
+	There does seem to be a method to this madness, but it does not seem like it has fully transitioned
+	to having an external CSS folder. Meanwhile, Javascript seems to be loading regardless of whether
+	it is in the beginning or not, which leads me to believe that perhaps it wasn't a big deal back then.
+	
+	It is also very plausible that the webpage is being loaded under PHP, mainly looking at the number of
+	times "PHP" was requested based on the query I requested. The main thing to look at would probably
+	just be the media queries, as it functions well under a desktop environment. 
+
+	
